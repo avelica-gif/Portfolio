@@ -1,1 +1,0 @@
-# avelica-gif.github.io
