@@ -10,8 +10,5 @@ There has been many times where I think about giving up on this class but once I
 
 I know right now all 3 pages look very plain and simple; but I can't express enough how much worse they used to look. 
 
-I did buy a domain from GoDaddy to try to connect it using GitHub's A records but somehow it wasn't working so I took it off. 
-
-Once I figure out why it wasn't connecting, this page will be deployed as avelicacodes.com
-
+Also, I ended up purchasing a domain for my this assignment. You can find it at avelicacodes.com
 
