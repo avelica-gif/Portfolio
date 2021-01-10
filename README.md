@@ -10,5 +10,7 @@ There has been many times where I think about giving up on this class but once I
 
 I know right now all 3 pages look very plain and simple; but I can't express enough how much worse they used to look. 
 
+I was able to link all my social media's to the icons as well as willitstream.com to the picture in the portfolio.
+
 Also, I ended up purchasing a domain for my this assignment. You can find it at avelicacodes.com
 
