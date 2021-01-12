@@ -1,4 +1,4 @@
-# about-me
+# Portfolio
 
 I updated my portfolio to make it look cleaner and add a customer avatar of myself. I actually added a small bio of myself. 
 
