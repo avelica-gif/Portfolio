@@ -12,6 +12,7 @@ I know right now all 3 pages look very plain and simple; but I can't express eno
 
 I was able to link all my social media's to the icons as well as willitstream.com to the picture in the portfolio.
 I am still trying to figure out how to add an icon to make my resume downloadedable. I have added that to the list of issue I need to fix.
+Also, I was trying to make my email address clickable, however, as someone who works in email and looking into it, that is how we get spam bots scanning our email addresses getting our information and sending us junk email. So I am going to avoid that for now.
 
-Also, I ended up purchasing a domain for my this assignment. You can find it at https://avelicacodes.com/
+I ended up purchasing a domain for my this assignment. You can find it at https://avelicacodes.com/
 
