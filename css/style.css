@@ -24,4 +24,11 @@
     background-color: #c6def4;
     
 }
+.btn btn-primary btn-lg {
+    text-align: center;
+}
+
+.lead {
+    align-items: right;
+}
 
